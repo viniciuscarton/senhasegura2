@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksenhasegura_2=self.webpackChunksenhasegura_2||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/senhasegura2/pt/blog","blogTitle":"Blog","authorsListPath":"/senhasegura2/pt/blog/authors"}')}}]);
